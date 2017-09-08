@@ -13,7 +13,9 @@
 第一版没什么说的 很简洁 拥有吾爱分享论坛专用的动态背景样式（也很好玩哦）
 
 ## 演示地址
-[点击进入](http://wuaishare.oschina.io/chi/)
+[1.官方演示](http://www.wuaishare.cn/demo/chi/)  
+[2.github演示](https://wuaishare.github.io/chi/)  
+[3.码云演示](http://wuaishare.oschina.io/chi/)
 
 ## 源码下载
 [1.开源中国](https://git.oschina.net/wuaishare/chi.git)
