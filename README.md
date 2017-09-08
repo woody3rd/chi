@@ -18,8 +18,8 @@
 [3.码云演示](http://wuaishare.oschina.io/chi/)
 
 ## 源码下载
-[1.开源中国](https://git.oschina.net/wuaishare/chi.git)
-[2.GitHub](https://github.com/wuaishare/chi)
+[1.开源中国](http://git.oschina.net/wuaishare/chi/repository/archive/master)
+[2.GitHub](https://github.com/wuaishare/chi/archive/master.zip)
 
 ## 用户交流群
 欢迎各位进群交流，群里有小白有大牛，有各种好玩实用的精品资源和线报，每日更新哦！  
