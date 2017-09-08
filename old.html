@@ -1,0 +1,81 @@
+﻿<!-- 
+*Project Name:今天吃什么v1.0
+*=====================================
+*Copy 2016-2017 SAF网络联盟
+*Web: http://www.52saf.com
+*=====================================
+*Author: 逸轩
+*QQ：740749820
+*Date: 2017.9.8
+-->
+<!DOCTYPE HTML>
+<html xmlns:wb="http://open.weibo.com/wb">
+<head>
+    <meta charset="UTF-8">
+    <title>旧版-今天中午吃什么？ - powered by 吾爱分享www.wuaishare.cn</title>
+    <meta name="keywords" content="中午吃什么" />
+    <meta name="description" content="中午吃什么网站源码" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="default.css">
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+    <script type='text/javascript'>
+          var _vds = _vds || [];
+          window._vds = _vds;
+          (function(){
+            _vds.push(['setAccountId', 'a1b1ffe6bcd33190']);
+            (function() {
+              var vds = document.createElement('script');
+              vds.type='text/javascript';
+              vds.async = true;
+              vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+              var s = document.getElementsByTagName('script')[0];
+              s.parentNode.insertBefore(vds, s);
+            })();
+          })();
+      </script>
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <h1>
+            中午吃什么，吃什么？
+            <br>
+            <br>
+            <b style="color:#FF9733" id="what"></b>
+        </h1>
+        <input type="button" value="开始" id="start" />
+        <input type="button" value="开始" id="stop" style="display: none;"> <hr>
+        <a class="btn btn-primary btn-lg" href="./index.html">去新版看看</a>
+    </div>
+
+    <textarea rows="9" cols="53" id="list" style="display:none">
+                馄饨 拉面 烩面 热干面 刀削面 油泼面 炸酱面 炒面 重庆小面 米线 酸辣粉 土豆粉 螺狮粉 凉皮儿 麻辣烫肉夹馍 羊肉汤 炒饭 盖浇饭 卤肉饭 烤肉饭 黄焖鸡米饭 驴肉火烧 川菜 麻辣香锅 火锅 酸菜鱼 烤串 披萨 烤鸭 汉堡 炸鸡 寿司 蟹黄包 粽子 煎饼果子 生煎 炒年糕
+    </textarea>
+
+	<div id="weibo">
+		<wb:follow-button uid="5280497654" type="red_2" width="136" height="24"></wb:follow-button><hr>
+    <wb:share-button id="ribbon" appkey="2898145930" addition="number" type="button" ralateUid="5280497654" default_text="今天中午吃什么？有了这个小游戏，进后再也不用愁了，哈哈" pic="http%3A%2F%2Fojax5auf5.bkt.clouddn.com%2Fo_1bpg7ll9sm531i5te0bmba12pia.jpg||http%3A%2F%2Fojax5auf5.bkt.clouddn.com%2Fo_1bpg7m69li2f1q3914fp1ttb1f59a.jpg||http%3A%2F%2Fojax5auf5.bkt.clouddn.com%2Fo_1bpg7nbf7hhdrlfe710a2gjja.jpg"></wb:share-button>
+	</div>
+
+    <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+    <script src="random.js"></script>
+    <script src="three_punch_combo.js"></script>
+
+    <!-- cnzz-站长统计 -->
+    <div style="position:absolute;bottom:5px; width:100%; text-align:center;">
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1264366701'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/z_stat.php%3Fid%3D1264366701%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
+    </div>
+    <!-- cnzz-站长统计 end -->
+
+    <!--网站背景特效 from吾爱分享www.wuaishare.cn-->
+    <style type="text/css">
+    #cas { position: fixed; top: 0; left: 0; z-index: -1; opacity: .5 }
+    .vm img{margin-top:0!important;}
+    </style>
+    <canvas id="cas" width="100%" height="100%"></canvas>
+    <script type="text/javascript" src="http://ojax5auf5.bkt.clouddn.com/o_1bjc3cokbmuudd1s72mut1g4a.js"></script>
+</body>
+</html>
