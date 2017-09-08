@@ -4,4 +4,22 @@
 
 无数个上班的日子、无数栋写字楼、无数个团队、无数个上班族、无数个工作群、无数个高矮胖瘦各不相同的个体每天都会的问题，「中午吃什么」，从现在起，就要被改变。
 
-## 
+## 更新日志
+### 2017.9.8更新 v1.1
+1.增加“正常人类”和“非正常人类”的选项，增强趣味性。  
+2.更改网站背景为食物菜单样式  
+3.增加微博分享按钮和微博关注按钮     
+### 2017.9.4更新 v1.0
+第一版没什么说的 很简洁 拥有吾爱分享论坛专用的动态背景样式（也很好玩哦）
+
+## 演示地址
+[点击进入](http://wuaishare.oschina.io/chi/)
+
+## 源码下载
+[1.开源中国](https://git.oschina.net/wuaishare/video.git)
+[2.GitHub](https://github.com/wuaishare/video)
+
+## 用户交流群
+欢迎各位进群交流，群里有小白有大牛，有各种好玩实用的精品资源和线报，每日更新哦！  
+QQ群①群：<a target="_blank" href="./qq/api/joingroup.php?qun=490844072"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群" style="vertical-align: middle;"></a>  
+QQ群②群：<a target="_blank" href="./qq/api/joingroup.php?qun=143946691"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群" style="vertical-align: middle;"></a>
