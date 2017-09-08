@@ -23,5 +23,5 @@
 
 ## 用户交流群
 欢迎各位进群交流，群里有小白有大牛，有各种好玩实用的精品资源和线报，每日更新哦！  
-QQ群①群：<a target="_blank" href="./qq/api/joingroup.php?qun=490844072"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群" style="vertical-align: middle;"></a>  
-QQ群②群：<a target="_blank" href="./qq/api/joingroup.php?qun=143946691"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群" style="vertical-align: middle;"></a>
+QQ群①群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5umgt5A"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群" style="vertical-align: middle;"></a>  
+QQ群②群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=52eIyjH"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="点击加群" title="点击加群" style="vertical-align: middle;"></a>
